@@ -44,7 +44,7 @@
     <td width="50%" valign="top">
       <b><a href="https://github.com/SyookSwithS/usb-security-monitoring">USB Security Monitoring System</a></b><br/>
       <sub>Risk-based detection system for monitoring USB device activity — Final Year Project.</sub><br/><br/>
-      <sub><i>📁 Available now</i></sub>
+      <sub><i>📁 In progress</i></sub>
     </td>
   </tr>
 </table>
