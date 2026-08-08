@@ -34,16 +34,21 @@
 
 <h3 align="center">🚀 Top Projects</h3>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td>
-      <a href="https://github.com/username/soc-lab">
-      </a>
-      <p align="center"><i>Home SOC Lab - Wazuh, Suricata & ELK threat detection pipeline (Uploading Next Week)</i></p>
-       <p align="center"><i>USB Security Monitoring System With Risk Based Detection (Final Year Project)</i></p>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/SyookSwithS/soc-lab">Home SOC Lab</a></b><br/>
+      <sub>Threat detection pipeline built with Wazuh, Suricata &amp; ELK — logging and analyzing 5+ simulated attack types.</sub><br/><br/>
+      <sub><i>🔄 Uploading next week</i></sub>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/SyookSwithS/usb-security-monitoring">USB Security Monitoring System</a></b><br/>
+      <sub>Risk-based detection system for monitoring USB device activity — Final Year Project.</sub><br/><br/>
+      <sub><i>📁 Available now</i></sub>
     </td>
   </tr>
 </table>
+
 
 <br/>
 
