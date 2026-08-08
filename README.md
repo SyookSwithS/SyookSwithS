@@ -1,10 +1,10 @@
-<h1 align="center">Hi there, I'm Muhamad Syukri 👋</h1>
+<h1 align="center">Hi there, I'm Muhamad Syukri 👨‍💼</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1BA0D7&center=true&vCenter=true&width=650&lines=Network+%26+Cybersecurity+Engineer;Infrastructure+Security+%7C+SIEM+%7C+SOAR+%7C+XDR;Currently+Hunting+Threats+%F0%9F%94%8D" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Practicing Cybersecurity For A living ☕ 🤏 ⚪ Currently active doing hands on project in various domain AND sector of security including Infrastructure Security, SIEM Engineering, SOAR, XDR, AND Threat Hunting </h3>
+<h3 align="center">Practicing Cybersecurity For A living ☕ 🤏 🔥🧱🛡️⚪ Currently active doing hands on project in various domain AND sector of security including Infrastructure Security, SIEM Engineering, SOAR, XDR, AND Threat Hunting </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/syukri-hasbullah-56a422253"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
